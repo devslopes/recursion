@@ -8,9 +8,7 @@
 // console.log(threeSum([0, 1, 1])); // Output: []
 // console.log(threeSum([0, 0, 0])); // Output: [[0, 0, 0]]
 
-function threeSum(arr) {
-  // Your code here
-}
+function threeSum(arr) {}
 
 // 10. Rock, Paper, Scissors (Generate All Possible Outcomes)
 // Write a recursive function that generates all possible outcomes of a game of Rock, Paper, Scissors for n rounds.
